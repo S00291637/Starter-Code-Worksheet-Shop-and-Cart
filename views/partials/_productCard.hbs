@@ -1,0 +1,15 @@
+<article class="product-card">
+  <a href="/product/{{id}}" class="product-card__link">
+    <img src="{{image}}" alt="{{alt}}" class="product-card__image" width="400">
+  </a>
+  <div class="product-card__body">
+    <h2 class="product-card__category">{{category}}</h2>
+    <h3 class="product-card__title">
+      <a href="/product/{{id}}">{{name}}</a>
+    </h3>
+    <p class="product-card__description">{{description}}</p>
+    <p class="product-card__price">{{euro price}}</p>
+    <button type="button" class="btn-add-cart" data-add-to-cart="{{id}}">Add to cart</button>
+    <p class="cart-feedback" data-cart-message aria-live="polite"></p>
+  </div>
+</article>

@@ -4,7 +4,7 @@
     "name": "Morning Blend Coffee",
     "category": "Coffee",
     "description": "Smooth medium roast with notes of chocolate and caramel. 250g whole beans.",
-    "price": 99.9, // Note: Changed price to 99.9 for task 2
+    "price": 99.9,
     "image": "/images/products/product-1.svg",
     "alt": "Placeholder image for Morning Blend Coffee"
   },
@@ -13,7 +13,7 @@
     "name": "Dark Roast Espresso",
     "category": "Coffee",
     "description": "Bold and rich, roasted for espresso machines and moka pots. 250g whole beans.",
-    "price": 99.9, // Note: Changed price to 99.9 for task 2
+    "price": 99.9,
     "image": "/images/products/product-2.svg",
     "alt": "Placeholder image for Dark Roast Espresso"
   },
@@ -22,7 +22,7 @@
     "name": "Decaf Colombian",
     "category": "Coffee",
     "description": "All the flavour, none of the caffeine. Swiss water processed. 250g ground.",
-    "price": 99.9, // Note: Changed price to 99.9 for task 2
+    "price": 99.9,
     "image": "/images/products/product-3.svg",
     "alt": "Placeholder image for Decaf Colombian"
   },
@@ -31,7 +31,7 @@
     "name": "Ethiopian Single Origin",
     "category": "Coffee",
     "description": "Light roast with bright citrus and floral notes. 250g whole beans.",
-    "price": 99.9, // Note: Changed price to 99.9 for task 2
+    "price": 99.9,
     "image": "/images/products/product-4.svg",
     "alt": "Placeholder image for Ethiopian Single Origin"
   },
@@ -40,7 +40,7 @@
     "name": "Ceramic Pour-Over",
     "category": "Brewing",
     "description": "Hand-glazed dripper that brews one perfect cup at a time.",
-    "price": 99.9, // Note: Changed price to 99.9 for task 2
+    "price": 99.9,
     "image": "/images/products/product-5.svg",
     "alt": "Placeholder image for Ceramic Pour-Over"
   },
@@ -82,7 +82,7 @@
   },
 
   {
-    "id": "19",
+    "id": "10",
     "name": "New Product Example",
     "category": "Accessories",
     "description": "Double-walled, leak-proof and keeps coffee hot for 6 hours.",
